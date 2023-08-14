@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.timer {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.time {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+}
+
+.work {
+  background-color: powderblue;
+}
+
+.controls button {
+  margin: 0 5px;
+  padding: 8px 16px;
+  font-size: 18px;
+  background-color: grey;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.interval-options {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.interval-options label {
+  font-size: 18px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.interval-options input {
+  font-size: 16px;
+  padding: 5px;
+}
+
+.interval-options button {
+  display: block;
+  margin-top: 10px;
+  margin: 15px auto;
+  padding: 8px 16px;
+  font-size: 18px;
+  background-color: grey;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
